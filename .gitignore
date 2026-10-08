@@ -1,0 +1,16 @@
+HELP.md
+.gradle
+build/
+.idea/
+*.iml
+.env
+out/
+logs/
+*.log
+.classpath
+.project
+.settings
+bin/
+target/
+.vscode/
+.DS_Store
