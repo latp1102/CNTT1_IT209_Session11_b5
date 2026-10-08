@@ -8,6 +8,7 @@ class BtApplicationTests {
 
     @Test
     void contextLoads() {
+        throw new RuntimeException("TEST FAIL FOR CI DEMO");
     }
 
 }
