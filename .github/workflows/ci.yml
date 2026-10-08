@@ -67,4 +67,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: ghcr.io/${{ github.repository }}:latest
+          tags: ghcr.io/latp1102/cntt1_it209_session11_b5:latest
